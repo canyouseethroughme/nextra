@@ -1,14 +1,15 @@
 {
   "index": {
-    "title": "Get started with PacMan",
+    "title": "Get started",
     "theme": {
       "layout": "full",
       "toc": false,
       "breadcrumb": false
     }
   },
-  "--": {
-    "type": "separator"
+  "-": {
+    "type": "separator",
+    "title": "Features"
   },
   "movements": {
     "title": "Movements",

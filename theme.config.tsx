@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <code>DFDS Logistics Monorepo Documentation</code>,
+  logo: <b>DFDS Logistics Monorepo Docs</b>,
   project: {
     link: "https://github.com/dfds-frontend/logistics",
   },
