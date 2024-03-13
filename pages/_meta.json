@@ -1,6 +1,7 @@
 {
   "index": {
     "title": "Introduction",
+    "display": "hidden",
     "theme": {
       "typesetting": "article",
       "sidebar": false,
