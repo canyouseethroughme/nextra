@@ -1,15 +1,22 @@
-
 {
-    "movements": {
-        "title": "Movements",
-        "theme": {
-            "layout": "full",
-            "toc": false,
-            "breadcrumb": false
-          }
-    },
-    "---": {
-        "type": "separator"
-      },
-    "parties": "Parties"
+  "index": {
+    "title": "Home",
+    "theme": {
+      "layout": "full",
+      "toc": false,
+      "breadcrumb": false
+    }
+  },
+  "--": {
+    "type": "separator"
+  },
+  "movements": {
+    "title": "Movements",
+    "theme": {
+      "layout": "full",
+      "toc": false,
+      "breadcrumb": false
+    }
+  },
+  "parties": "Parties"
 }
