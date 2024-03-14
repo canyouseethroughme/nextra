@@ -19,8 +19,7 @@
   },
   "pacman": {
     "title": "PacMan",
-    "type": "page",
-    "href": "/pacman/index.mdx"
+    "type": "page"
   },
   "sqp": {
     "title": "SQP",
