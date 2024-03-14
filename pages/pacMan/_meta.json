@@ -1,6 +1,7 @@
 {
   "index": {
     "title": "Quick Start",
+    "href": "/pacMan",
     "theme": {
       "layout": "full",
       "toc": false,
