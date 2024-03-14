@@ -1,0 +1,11 @@
+{
+  "search": {
+    "title": "index.tsx (search)"
+  },
+  "create": {
+    "title": "create/index.tsx"
+  },
+  "edit": {
+    "title": "edit/[partyId].tsx"
+  }
+}

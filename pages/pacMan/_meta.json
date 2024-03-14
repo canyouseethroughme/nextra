@@ -1,23 +1,26 @@
 {
   "index": {
-    "title": "Get started",
+    "title": "Quick Start",
     "theme": {
       "layout": "full",
       "toc": false,
       "breadcrumb": false
     }
   },
-  "-": {
+  "--": {
     "type": "separator",
-    "title": "Features"
+    "title": "Docs"
   },
-  "movements": {
-    "title": "Movements",
-    "theme": {
-      "layout": "full",
-      "toc": false,
-      "breadcrumb": false
-    }
+  "---": {
+    "type": "separator"
   },
-  "parties": "Parties"
+  "pages": {
+    "title": "Pages"
+  },
+  "----": {
+    "type": "separator"
+  },
+  "sections": {
+    "title": "Sections"
+  }
 }

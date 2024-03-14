@@ -1,0 +1,16 @@
+{
+  "movements": {
+    "title": "Movements",
+    "theme": {
+      "layout": "full",
+      "toc": false
+    }
+  },
+  "parties": {
+    "title": "Parties",
+    "theme": {
+      "toc": false,
+      "layout": "full"
+    }
+  }
+}

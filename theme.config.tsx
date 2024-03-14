@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
     text: "Logistics Monorepo Documentation",
   },
   sidebar: {
-    defaultMenuCollapseLevel: 1, // here
+    defaultMenuCollapseLevel: 1,
     autoCollapse: true,
   },
 };
