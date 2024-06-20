@@ -10,19 +10,19 @@
       "breadcrumb": false
     }
   },
-  "---": {
-    "type": "separator"
-  },
   "onTrack": {
     "title": "OnTrack",
-    "type": "page"
+    "type": "page",
+    "href": "/onTrack"
   },
   "pacman": {
     "title": "PacMan",
-    "type": "page"
+    "type": "page",
+    "href": "/pacman"
   },
   "sqp": {
     "title": "SQP",
-    "type": "page"
+    "type": "page",
+    "href": "/sqp"
   }
 }
